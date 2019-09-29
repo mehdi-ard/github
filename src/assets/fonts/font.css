@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "ProductSans-Regular";
+  src: url("ProductSansRegular.eot");
+  /* IE9 Compat Modes */
+  src: url("ProductSansRegular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("ProductSansRegular.otf") format("opentype"), /* Open Type Font */
+  url("ProductSansRegular.svg") format("svg"), /* Legacy iOS */
+  url("ProductSansRegular.ttf") format("truetype"), /* Safari, Android, iOS */
+  url("ProductSansRegular.woff") format("woff"), /* Modern Browsers */
+  url("ProductSansRegular.woff2") format("woff2");
+  /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

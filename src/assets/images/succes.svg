@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="160px" version="1.1" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+<title>363</title>
+<desc>Created with Sketch.</desc>
+<defs>
+<linearGradient id="a" x1="50%" x2="50%" y2="100%">
+<stop stop-color="#05CC47" offset="0"/>
+<stop stop-color="#00B574" offset="1"/>
+</linearGradient>
+</defs>
+<g fill="none" fill-rule="evenodd">
+<g transform="translate(-640 -165)">
+<g transform="translate(640 165)">
+<circle cx="80" cy="80" r="80" fill="url(#a)" opacity=".10452"/>
+<circle cx="80" cy="80" r="60" fill="url(#a)"/>
+<path d="m57.6 82c-0.4-0.4-0.6-1-0.6-1.4s0.2-1 0.6-1.4l2.8-2.8c0.8-0.8 2-0.8 2.8 0l0.2 0.2 11 11.8c0.4 0.4 1 0.4 1.4 0l26.8-27.8h0.2c0.8-0.8 2-0.8 2.8 0l2.8 2.8c0.8 0.8 0.8 2 0 2.8l-32 33.2c-0.4 0.4-0.8 0.6-1.4 0.6s-1-0.2-1.4-0.6l-15.6-16.8-0.4-0.6z" fill="#fff"/>
+</g>
+</g>
+</g>
+</svg>
